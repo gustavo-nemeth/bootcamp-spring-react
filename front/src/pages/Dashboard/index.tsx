@@ -7,7 +7,6 @@ import React from "react";
 
 const Dashboard = () => {
     return (
-        <div>
             <>
                 <NavBar/>
                 <div className="container">
@@ -33,7 +32,7 @@ const Dashboard = () => {
                 </div>
                 <Footer/>
             </>
-        </div>
+
 
     )
 };
